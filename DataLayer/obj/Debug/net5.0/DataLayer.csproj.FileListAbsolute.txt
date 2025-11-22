@@ -1,0 +1,15 @@
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.json
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.dev.json
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\bin\Debug\net5.0\DataLayer.dll
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\obj\Debug\net5.0\DataLayer.dll
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+D:\Programmer\WEB-ASP\Blog\Blog\DataLayer\obj\Debug\net5.0\DataLayer.genruntimeconfig.cache

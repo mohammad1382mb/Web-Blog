@@ -24,13 +24,16 @@ namespace Blog.Areas.Admin.Controllers
         {
             return View(_categoryService.GetAllCategory());
         }
-        public IActionResult Add()
+
+        [Route("admin/category/add/{parentId?}")]
+        public IActionResult Add(int? parentId)
         {
             return View();
         }
-        [HttpPost]
-        public IActionResult Add(CreateCategoryViewModel createViewModel)
+        [HttpPost("admin/category/add/{parentId}")]
+        public IActionResult Add(int? parentId ,CreateCategoryViewModel createViewModel)
         {
+            createViewModel.ParentId = parentId;
             var result = _categoryService.CreateCategory(createViewModel.MapToDto());
             if (result.Status != OperationResultStatus.Success)
             {

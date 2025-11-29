@@ -23,7 +23,8 @@ namespace DataLayer.Entities
         [MaxLength(500)]
         public string Description { get; set; }
         public int Visit { get; set; }
-       
+        public string ImageName { get; set; }
+
 
         #region Relation
         [ForeignKey("UserId")]
